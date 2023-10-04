@@ -1,4 +1,4 @@
-Add to Cart App
+#Add to Cart App
 This is a simple "Add to Cart" application that allows users to input items and add them to a virtual shopping cart. Users can also remove items from the cart by clicking on them.
 
 Example
